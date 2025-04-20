@@ -1,0 +1,1 @@
+- Programa que executa o algoritmo de Huffman, compacta o arquivo e depois o descompacta para demonstrar ao usuário o mantimento do texto sem alterações ou perdas.
